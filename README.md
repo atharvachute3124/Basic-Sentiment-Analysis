@@ -1,1 +1,4 @@
 # Basic-Sentiment-Analysis
+
+Social media has opened the floodgates of customer opinions and it is now free-flowing in mammoth proportions for businesses to analyze. Today, using machine learning companies are able to extract these opinions in the form of text or audio and then analyze the emotions behind them on an unprecedented scale. Sentiment analysis, opinion mining call it what you like, if you have a product/service to sell you need to be on it.
+Sentiment analysis is a type of data mining that measures the inclination of people’s opinions through natural language processing (NLP), computational linguistics and text analysis, which are used to extract and analyze subjective information from the Web — mostly social media and similar sources. The analyzed data quantifies the general public’s sentiments or reactions toward certain products, people or ideas and reveal the contextual polarity of the information.
